@@ -1,3 +1,16 @@
+---
+title: Concept Check MVP
+emoji: 🧠
+colorFrom: blue
+colorTo: purple
+sdk: docker
+pinned: false
+---
+
+# Concept Check MVP
+
+Track A - Concept Check | Detecting the gap between memorized definitions and true conceptual understanding.
+
 # C7-100xjune-Hackathon
 Track A - Concept Check | Detecting the gap between memorized definitions and true conceptual understanding.
 
