@@ -12,6 +12,9 @@ Observe real learners attempting to explain systems-thinking concepts and identi
 
 Vikrant Negi
 
+Interview Recording:
+https://drive.google.com/file/d/1bHyVY-h7mqobTfF8Z5rGtcZ558MEHpvb/view?usp=sharing
+
 ## Concept
 
 Why does a backend exist?
@@ -59,6 +62,9 @@ The participant demonstrated strong first-principles reasoning and was able to e
 ## Name
 
 Pramudu
+
+Interview Recording:
+https://drive.google.com/file/d/15xckB24vJeAiZBYs7P2fWlrJR8JauMUA/view?usp=sharing
 
 ## Concept
 
