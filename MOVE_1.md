@@ -12,8 +12,13 @@ Observe real learners attempting to explain systems-thinking concepts and identi
 
 Vikrant Negi
 
+## Evidence
+
 Interview Recording:
 https://drive.google.com/file/d/1bHyVY-h7mqobTfF8Z5rGtcZ558MEHpvb/view?usp=sharing
+
+Interview Notes:
+evidence/vikrant-negi.pdf
 
 ## Concept
 
@@ -63,8 +68,13 @@ The participant demonstrated strong first-principles reasoning and was able to e
 
 Pramudu
 
+## Evidence
+
 Interview Recording:
 https://drive.google.com/file/d/15xckB24vJeAiZBYs7P2fWlrJR8JauMUA/view?usp=sharing
+
+Interview Notes:
+evidence/pramudu_interview.pdf
 
 ## Concept
 
@@ -150,8 +160,27 @@ The gap is often between:
 
 The interviews provide partial support for the hypothesis.
 
-One participant demonstrated strong first-principles reasoning from the beginning.
+Out of two participants:
 
-Another participant initially relied on memorized labels but improved significantly after structured follow-up questioning.
+- One participant demonstrated first-principles reasoning from the beginning.
+- One participant initially relied on memorized labels but improved significantly after structured follow-up questioning.
 
 This suggests that conceptual understanding exists on a spectrum and that guided Socratic questioning may help learners move from recognition to genuine understanding.
+
+---
+
+# Supporting Design Evidence
+
+## Move 3 — System Boundary Diagram
+
+See:
+evidence/boundary Diagram.pdf
+
+This diagram defines the boundary between deterministic system behavior and LLM judgment.
+
+## Move 4 — Data Shape Diagram
+
+See:
+evidence/Data shape diagram.pdf
+
+This diagram defines how features, golden cases, rubrics, and runs combine to produce pass/fail grading outcomes.
